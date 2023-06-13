@@ -12,9 +12,12 @@ func Mul(a int, b int) int {
 	return a * b
 }
 
+func Div(a int, b int) int {
+	return a / b
+}
 
 // Any project we required logging ->
 
 //Steps happening in your pro
 
-// just msg , time stamp : user loged in 
+// just msg , time stamp : user loged in
